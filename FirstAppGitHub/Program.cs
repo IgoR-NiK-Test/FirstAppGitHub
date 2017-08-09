@@ -11,6 +11,7 @@ namespace FirstAppGitHub
         static void Main(string[] args)
         {
             Console.WriteLine("Первое изменение");
+            Console.WriteLine("Второе изменение");
         }
     }
 }
