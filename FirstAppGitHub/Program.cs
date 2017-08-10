@@ -12,7 +12,8 @@ namespace FirstAppGitHub
         {
             Console.WriteLine("Первое изменение");
             Console.WriteLine("Второе изменение");
-			Console.WriteLine("Третье изменение");			
+			Console.WriteLine("Третье изменение");	
+			Console.WriteLine("Hello");		
         }
     }
 }
